@@ -1,5 +1,9 @@
 # 本栏目仅用于跳转一些不能发布的链接
 
+https://chinaculturavenezuela.netlify.app/2020-09-17-16-05-48.mp4
+
+使用用户名和密码登录到这个栏目里
+
 ## 步骤一
 
 在'test'子目录下，创建一个`html`文件，比如`test/index.html`,记住这个路径！
